@@ -41,7 +41,7 @@
             android:id="@+id/textView9"
             android:layout_width="74dp"
             android:layout_height="wrap_content"
-            android:padding="10"
+            android:padding="10sp"
             android:text="TextView" />
 
         <TextView
